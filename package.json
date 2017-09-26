@@ -47,7 +47,7 @@
     "minifyify": "^7.1.0",
     "prop-types": "^15.5.9",
     "react": "^15.0.2",
-    "react-dom": "^15.0.2",
+    "react-dom": "^16.0.0",
     "remark": "^8.0.0",
     "remark-html": "^6.0.0",
     "remark-slug": "^4.1.0",
